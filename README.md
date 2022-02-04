@@ -7,7 +7,7 @@ As a Software Architect 👷‍♂️, currently located in Barcelona 🏖️, I
 [<img src="media/banking-system/mastercard.svg" width="81" height="50">](https://www.mastercard.com)
 [<img src="media/banking-system/fasterpayments.svg" width="54" height="50">](https://www.fasterpayments.org.uk/)
 [<img src="media/banking-system/directdebit.svg" width="154" height="50">](https://en.wikipedia.org/wiki/Direct_debit)
-[<img src="media/banking-system/sepa.svg" width="287" height="50">](https://en.wikipedia.org/wiki/Single_Euro_Payments_Area)
+[<img src="media/banking-system/sepa.png" width="135" height="50">](https://en.wikipedia.org/wiki/Single_Euro_Payments_Area)
 [<img src="media/banking-system/cartes-bancaires.png" width="73" height="50">](https://www.cartes-bancaires.com/)
 [<img src="media/banking-system/santander.svg" width="290" height="50">](https://www.santander.com)
 [<img src="media/banking-system/3dsecure.svg" width="44" height="50">](https://3dsecure2.com/)
