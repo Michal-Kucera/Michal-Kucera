@@ -22,7 +22,7 @@ As a Software Architect 👷‍♂️, currently located in Barcelona 🏖️, I
 [<img src="media/banking-system/alipay.png" width="199" height="50">](https://global.alipay.com)
 [<img src="media/banking-system/trustly.svg" width="237" height="50">](https://www.trustly.net)
 
-Please feel free to check out my [LinkedIn profile](https://www.linkedin.com/in/michal-kucera/) for more details about my work experience.
+>Please feel free to check out my [LinkedIn profile](https://www.linkedin.com/in/michal-kucera/) for more details about my work experience.
 
 # How does my day-to-day work look like? 💻
 
@@ -37,7 +37,7 @@ Please feel free to check out my [LinkedIn profile](https://www.linkedin.com/in/
 - conducting technical interviews ✅
 - mentoring/leading/managing a small-size development team 🚀
 
-and always giving my best to everything I do! 🎉
+and **always** giving my best to everything I do! 🎉
 
 # What's my favourite tech stack? 🏷️
 
@@ -58,7 +58,7 @@ and always giving my best to everything I do! 🎉
 
 I love to hang up with friends 🍕 🍻, talk to new people, discover new destinations ✈️, hike ⛰️, snowboard 🏂, but also watch movies/series, listen to podcasts, read a nice book 📖, or attend conferences (e.g. [Spring I/O](https://springio.net)) 📈.
 
-\* yet, some of the aforementioned activities are slightly complicated due to Covid 😮‍💨
+>Yet, some of the aforementioned activities are slightly complicated due to Covid pandemic 😮‍💨
 
 # Where to catch me up? ☕
 
