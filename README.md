@@ -66,4 +66,8 @@ I love to hang up with friends 🍕 🍻, talk to new people, discover new desti
 [<img src="media/social/gitlab.svg" width="100" height="50">](https://gitlab.com/michal-kucera)
 [<img src="media/social/spotify.svg" width="100" height="50">](https://open.spotify.com/user/cwarr6u1tqcswn8vo64okejgk)
 
+# My GitHub contributions
+
+[![Michal's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Michal-Kucera&hide_border=true&theme=nord&custom_title=Trying%20my%20best%20%5E%5E)](https://github.com/Michal-Kucera)
+
 # Cheers! 🥂
