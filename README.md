@@ -1,10 +1,10 @@
-# Hi from Michal Kucera! 🙌
+# Hi from [Michal Kucera](https://www.linkedin.com/in/michal-kucera/)! 🙌
 
 As a Software Architect 👷‍♂️, currently located in Barcelona 🏖️, I've been helping Fintech companies with architecting,
 developing and maintaining large-scale, highly-available, distributed digital payment applications, as well as
 integrating them with 3rd party banking systems.
 
-# What banking systems have I worked with? 🏦
+# Banking systems I've worked with 🏦
 
 [<img src="media/banking-system/mastercard.svg" width="81" height="50">](https://www.mastercard.com)
 [<img src="media/banking-system/fasterpayments.svg" width="54" height="50">](https://www.fasterpayments.org.uk/)
@@ -30,22 +30,21 @@ integrating them with 3rd party banking systems.
 
 # How does my day-to-day work look like? 💻
 
-- Getting my hands dirty with back-end technologies such as Spring with the combination of Kotlin 🔥
-- I do turn caffeine into code 🐛
-- Constantly looking for new methodologies and approaches 🤓
-- Being closely involved in high-level and low-level technical/architecture design decisions 📝
-- Making sure our software meets the highest standards of software quality attributes (
-  e.g. [ISO 25010](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010)) 🕵
-- Writing down technical tasks 📄
-- Performing peer code reviews ⚡️
-- Supporting issues across environments 🚑️
-- Regularly acting as a Scrum Master 🧍
-- Conducting technical interviews ✅
+- Constantly looking for new innovative methodologies and approaches, building POCs 🤓
 - Mentoring/leading/managing my world-class development team 🚀
+- Immersed in backend tech such as Spring Framework with the combination of Kotlin 🔥
+- Guiding high-level architecture decisions, involved in detailed design 📝
+- Transforming caffeine into code 🐛
+- Ensuring our software aligns with top quality
+  standards ([ISO 25010](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010)) 🕵
+- Active in peer code reviews, pair/MOB programming ⚡️
+- Troubleshooting across environments, supporting issue resolution 🚑️
+- Facilitating stakeholder meetings 🧍
+- Conducting technical interviews ✅
 
-and **always** giving my best to everything I do! 🎉
+and **ALWAYS** giving my best to everything I do! 🎉
 
-# What's my favourite tech stack? 🏷️
+# What's my current tech stack? 🏷️
 
 [<img src="media/tech-stack/spring.svg" width="195" height="50">](https://spring.io)
 [<img src="media/tech-stack/quarkus.png" width="311" height="50">](http://quarkus.io)
@@ -67,16 +66,8 @@ I love to hang up with friends 🍕 🍻, talk to new people, discover new desti
 watch movies/series, listen to podcasts, read a nice book 📖, or attend conferences (
 e.g. [Spring I/O](https://springio.net), [Worldwide Software Architecture Summit](https://events.geekle.us/wsas23)) 📈.
 
-> Yet, some of the aforementioned activities are slightly complicated due to Covid pandemic 😮‍💨
-
-# Where to catch me up? ☕
+# Wanna say hi to me? ☕
 
 [<img src="media/social/linkedin.svg" width="100" height="50">](https://www.linkedin.com/in/michal-kucera/)
-[<img src="media/social/gitlab.svg" width="100" height="50">](https://gitlab.com/michal-kucera)
-[<img src="media/social/spotify.svg" width="100" height="50">](https://open.spotify.com/user/cwarr6u1tqcswn8vo64okejgk)
-
-# My GitHub contributions
-
-[![Michal's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Michal-Kucera&hide_border=true&theme=nord&custom_title=Trying%20my%20best%20%5E%5E)](https://github.com/Michal-Kucera)
 
 # Cheers! 🥂
