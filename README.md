@@ -59,6 +59,7 @@ and **ALWAYS** giving my best to everything I do! 🎉
 [<img src="media/tech-stack/redis.svg" width="100" height="50">](https://redis.io)
 [<img src="media/tech-stack/rabbitmq.svg" width="313" height="50">](https://rabbitmq.com)
 [<img src="media/tech-stack/activemq.svg" width="100" height="50">](https://activemq.apache.org)
+[<img src="media/tech-stack/keycloak.svg" width="243.19" height="50">](https://www.keycloak.org)
 
 # What do I do in my leisure time? 🏖️
 
